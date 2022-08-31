@@ -1,4 +1,4 @@
-package com.ppcodes.userapp.persistence.model.repository;
+package com.ppcodes.userapp.persistence.repository;
 
 import com.ppcodes.userapp.persistence.model.AppUser;
 import org.springframework.data.jpa.repository.JpaRepository;
